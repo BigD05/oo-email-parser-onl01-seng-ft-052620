@@ -2,8 +2,8 @@ class EmailAddressParser
   attr_accessor :email
   
   
-  def initialize
-    @pare = self.new("") 
+  def initialize(email)
+    @email = emai 
   
   end 
   
