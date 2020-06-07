@@ -1,6 +1,7 @@
 class EmailAddressParser 
   attr_accessor :paser 
   
+  
   def self.EmailParser() 
   
   end 
