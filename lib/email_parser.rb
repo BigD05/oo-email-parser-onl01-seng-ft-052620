@@ -2,8 +2,8 @@ class EmailAddressParser
   attr_accessor :paser 
   
   
-  def parse 
-    @pare = self 
+  def initialized 
+    @pare = self.new 
   
   end 
   
