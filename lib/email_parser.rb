@@ -2,7 +2,7 @@ class EmailAddressParser
   attr_accessor :paser 
   
   
-  def initialized 
+  def initialize
     @pare << self.new 
   
   end 
