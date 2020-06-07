@@ -3,7 +3,7 @@ class EmailAddressParser
   
   
   def initialize
-    @pare << self.new 
+    @pare = self.new 
   
   end 
   
