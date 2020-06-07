@@ -3,7 +3,7 @@ class EmailAddressParser
   
   
   def initialize(email)
-    @email = emai 
+    @email = email 
   
   end 
   
